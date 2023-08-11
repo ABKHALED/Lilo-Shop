@@ -1,0 +1,17 @@
+export { default as NavBar } from "./NavBar.jsx";
+export { default as Hero } from "./Hero.jsx";
+export { default as Asid } from "./Asid.jsx";
+export { default as AddItem } from "./AddItem.jsx";
+export { default as NewProducts } from "./NewProducts.jsx";
+export { default as Onsale } from "./Onsale.jsx";
+export { default as WhyChoose } from "./WhyChoose.jsx";
+export { default as Footer } from "./Footer.jsx";
+export { default as RemoveItems } from "./RemoveItems.jsx";
+export { default as EditItemes } from "./EditItemes.jsx";
+export { default as NewCollecion } from "./NewCollecion.jsx";
+export { default as SingelProduct } from "./SingelProduct.jsx";
+export { default as Info } from "./Info.jsx";
+export { default as Cart } from "./Cart.jsx";
+export { default as CartVue } from "./CartVue.jsx";
+export { default as OrderItems } from "./OrderItems.jsx";
+export { default as OrdersMang } from "./OrdersMang.jsx";
